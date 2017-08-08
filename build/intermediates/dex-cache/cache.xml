@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/webeleven/.android/build-cache/7a3bc508cf9e5d19de93128f84d43d07f1dd603b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d594200d7cec76fcb49a1bfb633f5f0456f23fd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/webeleven/.android/build-cache/85cafd73b2d60491d4e8228f778b195397cec9cd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0871b0debeb0e5d11c6ba4a57178cf59121e567e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/webeleven/.android/build-cache/29addab2902f53474ec7faceecd502475477b3e6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b28af2e32eeb3d5c622fbf2fd4c0e7ca92f164b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/webeleven/.android/build-cache/f79298c09d4b78b5e0863cdd2e6c390825305a06/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac1e826995226dfaf6fe6cd25f682306d120307e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/webeleven/.android/build-cache/eed8b9ebd4bce91cdd999f9387503a46919289a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7510cf170966727def2093a5a2cd71cf5214410/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/webeleven/.android/build-cache/00fe62f32ec04ab48b7ab494902a2b117044ccd9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7f4de128a36d6b578f1373929a659096a1a2dbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/webeleven/.android/build-cache/e54749affe9345a1f99c2f3bd27bab16119e521c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bf278e6303744b674b35496dc2f5ba9cada8100/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/webeleven/.android/build-cache/d846ee20c615b018dcac5ede8ae28118f4f05021/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ea67e8fe825e7a543d227f3264995245fa12b4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/webeleven/.android/build-cache/0fbec58ec3ed28804f58c8ce48607e60bca9a56a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d3d077890e1e8d1da2fc3d2cdddb61e894ed034/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/webeleven/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_fe127a0a7e8b1edc72a4e969453e587b24ea9a22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="808b03927184577bf6d4c7e8ba353747a16f05e5">
+        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fce5402ee4b6bd4a947e8e73138cb0989d73bde2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/webeleven/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_52e8d91156f28d3264049de6499d4ac3fd483ce8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/webeleven/.android/build-cache/3a108262cb9dd79b8459ae8744ac299b42fefef5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b708c723a0f3085e08a9ffa8079b9709cf96abb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d3ac890b11e17618e87971001c0ef2bfeacbbe2d/classes.dex" />
+    </item>
+
+</items>

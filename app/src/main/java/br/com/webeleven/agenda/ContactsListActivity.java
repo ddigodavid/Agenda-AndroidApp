@@ -9,6 +9,10 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
+import br.com.webeleven.agenda.DAOs.ContactDAO;
+import br.com.webeleven.agenda.Entities.Contact;
+
+import java.util.List;
 
 public class ContactsListActivity extends AppCompatActivity {
 
@@ -17,12 +21,14 @@ public class ContactsListActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_lista_alunos);
 
-        String[] names = {"Rodrigo", "Camila", "Wendel", "Felipe"};
+        ContactDAO contactDAO = new ContactDAO(this);
+        List<Contact> contacts = contactDAO.getAllContacts();
+        contactDAO.close();
 
-        ArrayAdapter<String> namesArrayAdapter =
-                new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, names);
+        ArrayAdapter<Contact> contactArrayAdapter =
+                new ArrayAdapter<Contact>(this, android.R.layout.simple_list_item_1, contacts);
 
-        ((ListView) findViewById(R.id.ListNames)).setAdapter(namesArrayAdapter);
+        ((ListView) findViewById(R.id.ListNames)).setAdapter(contactArrayAdapter);
 
         findViewById(R.id.list_add_contact).setOnClickListener(new View.OnClickListener() {
             @Override

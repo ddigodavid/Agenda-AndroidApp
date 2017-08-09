@@ -2,13 +2,13 @@ package br.com.webeleven.agenda.DAOs;
 
 import android.content.ContentValues;
 import android.content.Context;
+import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import br.com.webeleven.agenda.Entities.Contact;
 
-/**
- * Created by rodrigo on 09/08/17.
- */
+import java.util.ArrayList;
+import java.util.List;
 
 public class ContactDAO extends SQLiteOpenHelper {
     public ContactDAO(Context context) {
@@ -47,5 +47,30 @@ public class ContactDAO extends SQLiteOpenHelper {
         contentValues.put("score", contact.getScore());
 
         readableDatabase.insert("contacts", null, contentValues);
+    }
+
+    public List<Contact> getAllContacts() {
+        String query = "SELECT * FROM contacts;";
+        SQLiteDatabase sqLiteDatabase = getReadableDatabase();
+        Cursor c = sqLiteDatabase.rawQuery(query, null);
+
+        List<Contact> contacts = new ArrayList<Contact>();
+
+        while (c.moveToNext()) {
+            Contact contact = new Contact();
+
+            contact
+                    .setId(c.getInt(c.getColumnIndex("id")))
+                    .setName(c.getString(c.getColumnIndex("name")))
+                    .setAddress(c.getString(c.getColumnIndex("address")))
+                    .setPhone(c.getString(c.getColumnIndex("phone")))
+                    .setEmail(c.getString(c.getColumnIndex("email")))
+                    .setScore(c.getDouble(c.getColumnIndex("rating")));
+
+            contacts.add(contact);
+        }
+        c.close();
+
+        return contacts;
     }
 }

@@ -10,13 +10,20 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 import android.widget.Toolbar;
+import br.com.webeleven.agenda.DAOs.ContactDAO;
+import br.com.webeleven.agenda.Entities.Contact;
+import br.com.webeleven.agenda.services.FormHelperService;
 
 public class FormActivity extends AppCompatActivity {
+
+    private FormHelperService helperService;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_form);
+
+        helperService = new FormHelperService();
     }
 
     @Override
@@ -31,7 +38,12 @@ public class FormActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.form_menu_save:
-                Toast.makeText(FormActivity.this, "Usuário salvo!", Toast.LENGTH_SHORT).show();
+                Contact contact = this.helperService.getFormData(this);
+                ContactDAO contactDAO = new ContactDAO(this);
+                contactDAO.create(contact);
+                contactDAO.close();
+
+                Toast.makeText(FormActivity.this, String.format("Contato %s salvo!", contact.getName()), Toast.LENGTH_SHORT).show();
                 finish();
                 break;
         }

@@ -2,130 +2,247 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/webeleven/.android/build-cache/7a3bc508cf9e5d19de93128f84d43d07f1dd603b/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/rodrigo/.android/build-cache/624bb47dfdeae6d905286786ca491e433531bd30/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d594200d7cec76fcb49a1bfb633f5f0456f23fd9/classes.dex" />
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/pre-dexed/debug/classes_d57a303346dfbc8bd4cd9467bc17c134115204a3.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/webeleven/.android/build-cache/85cafd73b2d60491d4e8228f778b195397cec9cd/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0871b0debeb0e5d11c6ba4a57178cf59121e567e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/webeleven/.android/build-cache/29addab2902f53474ec7faceecd502475477b3e6/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/rodrigo/.android/build-cache/29b4fce9276343c05a1fb6fa29686e6de6b69349/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8b28af2e32eeb3d5c622fbf2fd4c0e7ca92f164b/classes.dex" />
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/pre-dexed/debug/classes_96d8047cdf1e5ae0b337dd39c1a935fb79c44ca3.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/webeleven/.android/build-cache/f79298c09d4b78b5e0863cdd2e6c390825305a06/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac1e826995226dfaf6fe6cd25f682306d120307e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/webeleven/.android/build-cache/eed8b9ebd4bce91cdd999f9387503a46919289a2/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7510cf170966727def2093a5a2cd71cf5214410/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/webeleven/.android/build-cache/00fe62f32ec04ab48b7ab494902a2b117044ccd9/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7f4de128a36d6b578f1373929a659096a1a2dbe/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/webeleven/.android/build-cache/e54749affe9345a1f99c2f3bd27bab16119e521c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8bf278e6303744b674b35496dc2f5ba9cada8100/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/webeleven/.android/build-cache/d846ee20c615b018dcac5ede8ae28118f4f05021/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ea67e8fe825e7a543d227f3264995245fa12b4f/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/webeleven/.android/build-cache/0fbec58ec3ed28804f58c8ce48607e60bca9a56a/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d3d077890e1e8d1da2fc3d2cdddb61e894ed034/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/webeleven/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jar="/home/rodrigo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_fe127a0a7e8b1edc72a4e969453e587b24ea9a22/classes.dex" />
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_0a143dbe1176595e8de960bd7e7a09c3d383efc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rodrigo/.android/build-cache/8aeab831ad88e90cb1788f03b628cf50c93f006e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/pre-dexed/debug/classes_f247ac08c725a84bb9a11f8be879237a2c65744d.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/home/rodrigo/.android/build-cache/29b4fce9276343c05a1fb6fa29686e6de6b69349/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="808b03927184577bf6d4c7e8ba353747a16f05e5">
-        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fce5402ee4b6bd4a947e8e73138cb0989d73bde2/classes.dex" />
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_96d8047cdf1e5ae0b337dd39c1a935fb79c44ca3/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/webeleven/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jar="/home/rodrigo/.android/build-cache/8aeab831ad88e90cb1788f03b628cf50c93f006e/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_52e8d91156f28d3264049de6499d4ac3fd483ce8/classes.dex" />
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f247ac08c725a84bb9a11f8be879237a2c65744d/classes.dex" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/webeleven/.android/build-cache/3a108262cb9dd79b8459ae8744ac299b42fefef5/output/jars/classes.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="/home/rodrigo/.android/build-cache/7cd53c161eec40524442e3ddd0d6e2b49c1b6072/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="26.0.1"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b708c723a0f3085e08a9ffa8079b9709cf96abb3/classes.dex" />
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/pre-dexed/debug/classes_b03b5a8c46c582505c732d42edfa9b502baccda5.jar" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/webeleven/AndroidStudioProjects/Agenda/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d3ac890b11e17618e87971001c0ef2bfeacbbe2d/classes.dex" />
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_793cb562fdc14807e1f4487023fe155a00f3ef48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigo/.android/build-cache/624bb47dfdeae6d905286786ca491e433531bd30/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d57a303346dfbc8bd4cd9467bc17c134115204a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigo/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_3e3be3e23eb02fed52e403112d6bbce5f24c17d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="98bed75defdcd2e783d8c3b11994547462903f06">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bc6de584504ffaf0726aa3144b44dcbd8e4fd02f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigo/.android/build-cache/7cd53c161eec40524442e3ddd0d6e2b49c1b6072/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b03b5a8c46c582505c732d42edfa9b502baccda5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigo/.android/build-cache/b93bc83b300ad02ccc155cfc62c867815a2f64d6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e563773cf5f94e9563a724d5e2edf5cc7807ee94/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rodrigo/.android/build-cache/b93bc83b300ad02ccc155cfc62c867815a2f64d6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/pre-dexed/debug/classes_e563773cf5f94e9563a724d5e2edf5cc7807ee94.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigo/.android/build-cache/547466a893f91be9ae1c2fa69e59d2351f2980a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c04519ad2f7656b17d6bfe800f26b8c4a01b23f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rodrigo/.android/build-cache/547466a893f91be9ae1c2fa69e59d2351f2980a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/pre-dexed/debug/classes_c04519ad2f7656b17d6bfe800f26b8c4a01b23f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rodrigo/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_3e3be3e23eb02fed52e403112d6bbce5f24c17d2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigo/.android/build-cache/d64c185ee4204f584feb41452fa0c6a91d23aef5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9b9650469cb5a4efe17ed1f47070ca868699cae/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rodrigo/.android/build-cache/6a7a7971fcb4d1557a473e6d4aa8303961dce147/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/pre-dexed/debug/classes_21e85e36618140d48659b70672949c6d14d96e6d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigo/.android/build-cache/6a7a7971fcb4d1557a473e6d4aa8303961dce147/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21e85e36618140d48659b70672949c6d14d96e6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rodrigo/.android/build-cache/d64c185ee4204f584feb41452fa0c6a91d23aef5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/pre-dexed/debug/classes_c9b9650469cb5a4efe17ed1f47070ca868699cae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rodrigo/.android/build-cache/8a10cf4bcf883e8703a29304cadc89be0dcce3a6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/pre-dexed/debug/classes_325346f06389a8305e35e1b1854518959bc727dd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigo/.android/build-cache/b739907e127845ddaa48b0640ff01a47c55695e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_06566fc9c578a9f017df16c6727126c3b1c2ceef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigo/.android/build-cache/aa99ca7155c23ae2a6050387286020e07a710728/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_88471af6194e8a973bcbed914b81e60c0a700adf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rodrigo/.android/build-cache/aa99ca7155c23ae2a6050387286020e07a710728/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/pre-dexed/debug/classes_88471af6194e8a973bcbed914b81e60c0a700adf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rodrigo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_0a143dbe1176595e8de960bd7e7a09c3d383efc8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodrigo/.android/build-cache/8a10cf4bcf883e8703a29304cadc89be0dcce3a6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/rodrigo/Projects/Agenda-AndroidApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_325346f06389a8305e35e1b1854518959bc727dd/classes.dex" />
     </item>
 
 </items>

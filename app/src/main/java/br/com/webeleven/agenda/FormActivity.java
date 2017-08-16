@@ -1,5 +1,6 @@
 package br.com.webeleven.agenda;
 
+import android.content.Intent;
 import android.support.annotation.Nullable;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -23,7 +24,13 @@ public class FormActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_form);
 
-        helperService = new FormHelperService();
+        helperService = new FormHelperService(this);
+
+        Intent intent = getIntent();
+        if (intent.hasExtra("contact")) {
+            Contact contact = (Contact) intent.getSerializableExtra("contact");
+            helperService.fillForm(contact);
+        }
     }
 
     @Override
@@ -38,9 +45,10 @@ public class FormActivity extends AppCompatActivity {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.form_menu_save:
-                Contact contact = this.helperService.getFormData(this);
+                Contact contact = this.helperService.getFormData();
+
                 ContactDAO contactDAO = new ContactDAO(this);
-                contactDAO.create(contact);
+                contactDAO.store(contact);
                 contactDAO.close();
 
                 Toast.makeText(FormActivity.this, String.format("Contato %s salvo!", contact.getName()), Toast.LENGTH_SHORT).show();

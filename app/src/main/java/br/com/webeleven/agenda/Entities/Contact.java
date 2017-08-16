@@ -1,15 +1,21 @@
 package br.com.webeleven.agenda.Entities;
 
-public class Contact {
+import java.io.Serializable;
+
+public class Contact implements Serializable {
     protected int id;
     protected String name;
     protected String address;
     protected String phone;
     protected String email;
-    protected double score;
+    protected float score;
 
     public int getId() {
         return id;
+    }
+
+    public boolean hasId() {
+        return id > 0;
     }
 
     public Contact setId(int id) {
@@ -53,12 +59,17 @@ public class Contact {
         return this;
     }
 
-    public double getScore() {
+    public float getScore() {
         return score;
     }
 
-    public Contact setScore(double score) {
+    public Contact setScore(float score) {
         this.score = score;
         return this;
+    }
+
+    @Override
+    public String toString() {
+        return String.format("%s - Telefone: %s", this.getName(), this.getPhone());
     }
 }

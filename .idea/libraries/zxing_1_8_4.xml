@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="zxing-1.8.4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/ca326222dca086a8d084c2837cf6ce38b288538d/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/ca326222dca086a8d084c2837cf6ce38b288538d/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
